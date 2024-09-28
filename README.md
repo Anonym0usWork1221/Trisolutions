@@ -79,9 +79,3 @@ following payment option:__
 
 > Your support is greatly appreciated and helps me continue providing valuable assistance and resources. 
 Thank you for your consideration.
-
-**Payoneer**: `abdulmoez123456789@gmail.com`
-
-> Your support is greatly appreciated and helps me continue providing valuable assistance and resources. 
-Thank you for your consideration.
->
